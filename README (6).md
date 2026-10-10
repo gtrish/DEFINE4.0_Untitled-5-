@@ -78,10 +78,13 @@ React and Vite (frontend), FastAPI and PostgreSQL (backend), Exotel (calls and k
 
 ![Screenshot 1](Screenshot 2026-10-10 101851.png)
 
-![Screenshot 2](./assets/screenshot-2.png)
+![Screenshot 2](Screenshot 2026-10-10 102202.png)
 
-![Screenshot 3](./assets/screenshot-3.png)
+![Screenshot 3](Screenshot 2026-10-10 102217.png)
 
+![Screenshot 4](Screenshot 2026-10-10 102216.png)
+
+ 
 ---
 
 # Live Project
@@ -106,9 +109,9 @@ React and Vite (frontend), FastAPI and PostgreSQL (backend), Exotel (calls and k
 
 ## System Architecture
 
-<!-- Add your architecture diagram here -->
 
-![System Architecture](./assets/architecture.png)
+
+![System Architecture](Screenshot 2026-10-10 105629.png)
 
 ## Key Features
 
