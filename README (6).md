@@ -76,7 +76,7 @@ React and Vite (frontend), FastAPI and PostgreSQL (backend), Exotel (calls and k
 
 <!-- Add screenshots of your project here -->
 
-![Screenshot 1](./assets/screenshot-1.png)
+![Screenshot 1](Screenshot 2026-10-10 101851.png)
 
 ![Screenshot 2](./assets/screenshot-2.png)
 
