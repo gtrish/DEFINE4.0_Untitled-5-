@@ -19,11 +19,11 @@ The official project submission repository for **DEFINE 4.0 — The World's Real
 
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| Gayathri | Backend | [@username](https://github.com/gtrish) | [Profile](https://linkedin.com/in/username) |
-| Agila Benedict | Backend | [@username](https://github.com/agiaben) | [Profile](https://linkedin.com/in/username) |
-| Akshay T Manoj | Frontend | [@username](https://github.com/Akshaytm310) | [Profile](https://linkedin.com/in/username) |
-| Aleena Liz Thomas | Role | [@username](https://github.com/aleenalizthomas) | [Profile](https://linkedin.com/in/username) |
-| Milind Krishna P | Role | [@username](https://github.com/aleenalizthomas) | [Profile](https://linkedin.com/in/username) |
+| Gayathri | Backend | [@username](https://github.com/gtrish) | [Profile](https://linkedin.com/in/gayathri-girish-a7b604360) |
+| Agila Benedict | Backend | [@username](https://github.com/agiaben) | [Profile](https://linkedin.com/in/agila-benedict-846580360) |
+| Akshay T Manoj | Frontend | [@username](https://github.com/Akshaytm310) | [Profile](https://linkedin.com/in/akshay-t-manoj-57a962330) |
+| Aleena Liz Thomas | Frontend | [@username](https://github.com/aleenalizthomas) | [Profile](https://linkedin.com/in/aleena-liz-thomas-542a7a326) |
+| Milind Krishna P | Frontend | [@username](https://github.com/mylel12prime007) | [Profile](https://linkedin.com/in/milind-krishna-p-829b08338) |
 ---
 
 # Project Details
